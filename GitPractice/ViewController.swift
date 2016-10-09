@@ -13,8 +13,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        let a = 12
-        print("a = \(a)")
+        let it = "be"
+        print(it)
     }
 
 
