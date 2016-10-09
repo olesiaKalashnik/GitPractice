@@ -12,9 +12,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        let it = "be"
-        print(it)
+        let it = "not be"
+        print("It is \(it)")
     }
 
 
